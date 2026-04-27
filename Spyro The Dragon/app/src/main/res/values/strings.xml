@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SpyroTheDragon</string>
+    <string name="worlds">Mundos</string>
+    <string name="characters">Personajes</string>
+    <string name="collectibles">Coleccionables</string>
+    <string name="title_about">Acerca de</string>
+    <string name="text_about">Aplicación desarrollada por \n <b>Francisco Javier Salido Machado.</b></string>
+    <string name="accept">Aceptar</string>
+    <string name="close">Cerrar</string>
+    <string name="guide_welcome_title">¡Bienvenido a Spyro The Dragon!</string>
+    <string name="guide_welcome_subtitle">Aquí aprenderás a navegar por pestañas llenas de dragones, mundos fascinantes y montones de tesoros brillantes.
+    ¿Listo para empezar?
+    Pulsa "Comenzar" y deja que Spyro te lleve volando a través de esta guía interactiva.</string>
+    <string name="guide_char_title">Personajes</string>
+    <string name="guide_char_desc">Descubre a todos los personajes del juego y sus historias.</string>
+    <string name="guide_world_title">Mundos</string>
+    <string name="guide_world_desc">Explora los increíbles mundos que puedes visitar en la aventura.</string>
+    <string name="guide_collect_title">Coleccionables</string>
+    <string name="guide_collect_desc">Encuentra gemas, huevos de dragón y mucho más.</string>
+    <string name="guide_info_title">Información</string>
+    <string name="guide_info_desc">Toca el icono de información para saber quién creó esta app.</string>
+    <string name="guide_summary_title">¡Ya estás listo!</string>
+    <string name="guide_summary_desc">Ahora conoces todas las secciones. ¡Disfruta explorando el mundo de Spyro!</string>
+    <string name="guide_next">Siguiente</string>
+    <string name="guide_skip">Saltar guía</string>
+    <string name="guide_start">¡Empezar!</string>
+    <string name="guide_bienvenido">BIENVENIDO</string>
+    <string name="guide_comenzar">Comenzar</string>
+    <string name="guide_final">Finalizar Guía</string>
+    <string name="easter_egg_ripto_title">✨ Cetro de Ripto</string>
+    <string name="easter_egg_no_video">No se encontró el vídeo de Easter Egg.</string>
+    <string name="easter_egg_video_error">Error al reproducir el vídeo.</string>
+</resources>

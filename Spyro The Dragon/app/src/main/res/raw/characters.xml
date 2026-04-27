@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <character>
+        <name>Spyro</name>
+        <description>El protagonista, un dragón valiente con una gran misión.</description>
+        <image>spyro</image>
+    </character>
+    <character>
+        <name>Hunter</name>
+        <description>Un explorador y arquero muy hábil que ayuda a Spyro en su aventura.
+        </description>
+        <image>hunter</image>
+    </character>
+    <character>
+        <name>Elora</name>
+        <description>Una fae sabia que ayuda a Spyro a lo largo de su misión.</description>
+        <image>elora</image>
+    </character>
+    <character>
+        <name>Ripto</name>
+        <description>El villano principal, un mago malvado que pone en peligro el mundo de Spyro.
+        </description>
+        <image>ripto</image>
+    </character>
+</characters>

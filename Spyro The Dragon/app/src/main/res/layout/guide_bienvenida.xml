@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7B1FA2"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="56dp"
+    android:paddingBottom="32dp">
+
+    <TextView
+        android:id="@+id/guide_big_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:gravity="center"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="16dp"
+        android:text="@string/guide_bienvenido"
+        android:textColor="@color/yellow"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/guide_spyro"
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:scaleType="fitCenter"
+        android:scaleX="0"
+        android:scaleY="0"
+        android:src="@drawable/spyro" />
+
+    <TextView
+        android:id="@+id/guide_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:gravity="center"
+        android:paddingStart="32dp"
+        android:paddingEnd="32dp"
+        android:paddingBottom="24dp"
+        android:text="@string/guide_welcome_subtitle"
+        android:textColor="@color/yellow"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/guide_btn_skip"
+            android:layout_width="120dp"
+            android:layout_height="56dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/guide_skip"
+            android:textColor="@color/yellow" />
+
+        <Button
+            android:id="@+id/guide_btn_comenzar"
+            android:layout_width="120dp"
+            android:layout_height="56dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/guide_comenzar"
+            android:textColor="@color/yellow" />
+
+    </LinearLayout>
+
+</LinearLayout>

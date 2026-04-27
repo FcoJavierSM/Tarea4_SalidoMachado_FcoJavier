@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collectibles>
+    <collectible>
+        <name>Huevos de Dragón</name>
+        <description>Huevos de dragón que han sido robados por los enemigos. Spyro debe rescatarlos para devolverlos a su lugar.</description>
+        <image>dragon_eggs</image>
+    </collectible>
+    <collectible>
+        <name>Gemas</name>
+        <description>Las gemas de diferentes colores que Spyro recolecta a lo largo de su aventura. Se utilizan para desbloquear ciertas áreas y personajes.</description>
+        <image>gems</image>
+    </collectible>
+    <collectible>
+        <name>Puntos de Habilidad</name>
+        <description>Puntos de habilidad que se ganan al completar ciertos desafíos difíciles en el juego. Estos puntos permiten desbloquear secretos adicionales.</description>
+        <image>skill_points</image>
+    </collectible>
+    <collectible>
+        <name>Cajas de Espíritu</name>
+        <description>Los barriles o cajas que contienen espíritus o energía que Spyro debe destruir para liberar a los dragones atrapados o resolver ciertos acertijos.</description>
+        <image>spirit_crates</image>
+    </collectible>
+    <collectible>
+        <name>Libélulas</name>
+        <description>Pequeñas criaturas que acompañan a Spyro, representando la salud de los dragones. Cada dragón tiene su propia libélula.</description>
+        <image>dragonflies</image>
+    </collectible>
+    <collectible>
+        <name>Ladrón de Huevos</name>
+        <description>Los Ladrónes de Huevos son pequeños enemigos que roban los huevos de dragón. Spyro debe atraparlos para recuperar los huevos robados.</description>
+        <image>egg_thief</image>
+    </collectible>
+</collectibles>
